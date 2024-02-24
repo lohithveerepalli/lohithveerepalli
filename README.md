@@ -12,7 +12,9 @@ I'm an Android Developer with a computer science background. I am interested in 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+## My GitHub Stats
 
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## Connect with Me
 
