@@ -1,7 +1,5 @@
 # Hi there, I'm Lohith Veerepalli 👋
 
-## About Me
-
 I'm an Android Developer with a computer science background. I am interested in anything to do with Kotlin!. Currently working on building public safety applications
 
 ## Technologies & Tools
