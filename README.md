@@ -1,17 +1,54 @@
 # Hi, I'm Lohith Veerepalli 👋
 
-I'm an Android Developer with a computer science background. I am interested in anything to do with Kotlin!. Currently working on building public safety applications
+I'm a passionate Software and IT Developer with 5 years of experience in building and managing IT infrastructure, developing software solutions, and providing exceptional technical support. I have a strong background in cloud-based solutions, workstation deployment tools, and troubleshooting across various operating systems. My skill set includes:
 
-## Technologies & Tools
+### Programming Languages:
+- Python
+- Bash
+- PowerShell
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+### Cloud Platforms:
+- AWS
+- Google Cloud Platform (GCP)
+- Azure
 
-## Connect with Me
+### CI/CD Tools:
+- Git
+- GitLab
+- Jenkins
+- Maven
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohith7/)
+### Deployment Tools:
+- Intune
+- JAMF
+- SCCM
+- PDQ
+
+### Operating Systems:
+- Windows
+- macOS
+- Linux
+- iOS
+- Android
+
+### Collaboration Tools:
+- Google Workspace
+- Office 365
+- Slack
+- Atlassian Suite
+- Zoom
+- Microsoft Teams
+
+### System Administration:
+- Active Directory
+- LDAP
+
+### Automation and Orchestration:
+- Docker
+- Kubernetes
+- Terraform
+- Ansible
+
+I enjoy solving complex problems, optimizing systems for better performance, and working both independently and collaboratively in dynamic environments. My experience spans various roles, including IT Support Engineer and Teaching Assistant, where I have successfully managed IT resources, provided comprehensive technical support, and facilitated smooth operations in both academic and corporate settings.
+
+Check out my projects and feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lohith7/) or explore my work on [GitHub](https://github.com/lohithveerepalli).
