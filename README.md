@@ -1,6 +1,6 @@
 # Hi, I'm Venkata Veerepalli 👋
 
-I'm a passionate Software and IT Developer with 5 years of experience in building and managing IT infrastructure, developing software solutions, and providing exceptional technical support. I have a strong background in cloud-based solutions, workstation deployment tools, and troubleshooting across various operating systems.
+I'm a passionate Software Engineer and IT Developer with 5 years of experience in building and managing IT infrastructure, developing software solutions, and providing exceptional technical support. I have a strong background in cloud-based solutions, workstation deployment tools, and troubleshooting across various operating systems.
 
 ## Technologies & Tools
 
@@ -35,6 +35,9 @@ I'm a passionate Software and IT Developer with 5 years of experience in buildin
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 I enjoy solving complex problems, optimizing systems for better performance, and working both independently and collaboratively in dynamic environments. My experience spans various roles, including IT Support Engineer and Teaching Assistant, where I have successfully managed IT resources, provided comprehensive technical support, and facilitated smooth operations in both academic and corporate settings.
 
