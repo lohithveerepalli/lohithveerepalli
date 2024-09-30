@@ -1,6 +1,6 @@
 # Hi, I'm Venkata Veerepalli 👋
 
-I'm a passionate Software Engineer and IT Developer with 5 years of experience in building and managing IT infrastructure, developing software solutions, and providing exceptional technical support. I have a strong background in cloud-based solutions, workstation deployment tools, and troubleshooting across various operating systems.
+I'm a passionate Software Engineer with experience in building and managing IT infrastructure, developing software solutions, and providing exceptional technical support. I have a strong background in cloud-based solutions, workstation deployment tools, and troubleshooting across various operating systems.
 
 ## Technologies & Tools
 
