@@ -38,9 +38,6 @@ I'm a passionate Software Engineer with experience in building and managing IT i
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-I enjoy solving complex problems, optimizing systems for better performance, and working both independently and collaboratively in dynamic environments. My experience spans various roles, including IT Support Engineer and Teaching Assistant, where I have successfully managed IT resources, provided comprehensive technical support, and facilitated smooth operations in both academic and corporate settings.
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohith7/)
